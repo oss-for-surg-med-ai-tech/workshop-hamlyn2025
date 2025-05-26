@@ -1,5 +1,5 @@
 <h1 align="center">
-:school_satchel: Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies
+:robot: Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies
 </h1>
 <div align="center">
 
