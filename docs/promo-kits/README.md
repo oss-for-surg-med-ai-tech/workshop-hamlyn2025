@@ -10,9 +10,9 @@ Let's advance healthcare together using open-source technologies.
 
 📢 Call for Posters: 
 Submit your abstract by 6th June for a chance to showcase your work to our participants, spark new collaborations, and be in the running to win a 🏆 poster award! 
-Details are here under call for poster tab: https://oss-for-surg-med-ai-tech.github.io/#
+See further details here https://openreview.net/group?id=hamlynsymposium.org/Hamlyn_Symposium/2025/Workshop/OSS_in_SurgTech#tab-your-consoles
 
-🎟️ Tickets are still available, including student discounts! 
+🎟️ Tickets are still available, including student discounts (registration will close 23:59 GMT Sunday 15th June 2025)!
 Don't miss out – we'd love to have you with us! 💬 Registration are here at the bottom: https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/
 
 🏗 Building a vibrant Open-Source community together  
