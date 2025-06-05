@@ -9,7 +9,7 @@ This is a truly special event, bringing together 👥 speakers and panellists fr
 Let's advance healthcare together using open-source technologies.
 
 📢 Call for Posters: 
-Submit your abstract by 6th June for a chance to showcase your work to our participants, spark new collaborations, and be in the running to win a 🏆 poster award! 
+Submit your abstract by 12th June for a chance to showcase your work to our participants, spark new collaborations, and be in the running to win a 🏆 poster award! 
 See further details here https://openreview.net/group?id=hamlynsymposium.org/Hamlyn_Symposium/2025/Workshop/OSS_in_SurgTech#tab-your-consoles
 
 🎟️ Tickets are still available, including student discounts (registration will close 23:59 GMT Sunday 15th June 2025)!
@@ -21,3 +21,21 @@ Everyone is welcome to join our Discord server (https://discord.gg/P6wB44Ftft) f
 Recorded talks will also be available on YouTube.
 
 #HamlynSymposium #OpenSource #BiomedicalTech #SurgicalInnovation #AI #Collaboration #CallForPosters #LondonEvents 
+
+
+## Poster extension (re-positng/sharing)
+
+
+📢 Exciting news! The abstract submission deadline for our full-day workshop, "Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies", has been extended to 12 June 2025, 12:00 PM (UTC+0).
+
+🎯 Don’t miss this unique opportunity to connect, collaborate, and innovate! Spaces are limited and going fast, so be sure to register by 15 June to secure your place.
+
+⚠️ Please note: There will be no on-site registration, so book early to avoid disappointment.
+
+👉 Sign up today:
+https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/
+
+
+#HamlynSymposium #OpenSource #BiomedicalTech #SurgicalInnovation #AI #Collaboration #CallForPosters #LondonEvents 
+
+
