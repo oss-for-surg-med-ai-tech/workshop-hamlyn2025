@@ -18,7 +18,7 @@ See below steps and a figure.
     **Title**: The 17th Hamlyn Symposium on Medical Robotics  
     **Acronym**: HSMR25  
     **Place**:  Royal Geographical Society  
-    **Dates**: 27th June 2025
+    **Dates**: 27th June 2025    
     **Website**: https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/   
     **Session**: Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies
 7. Please feel free any of the additional informaion to your poster: “recommended information”, “funding”, “alternative identifiers”, “related work”, “references”, “publishing infomraiton” and “domain specific fields”.
