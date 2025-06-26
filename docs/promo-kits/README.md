@@ -48,3 +48,7 @@ This one-of-a-kind event brings together experts from industry, academia, and re
 Whether you're a developer, researcher, clinician, or just curious — come join the conversation. Let’s move healthcare forward, together.
 
 #OpenSource #HealthTech #AI #Surgery #Collaboration #HamlynSymposium #HSM25 #Telesurgery #MedicalRobotics
+
+Feel free to use this promo kits in your massages
+* [promo-kit-horizontal.png](promo-kit-horizontal.png)
+* [promo-kit-vertical.png](promo-kit-vertical.png)
