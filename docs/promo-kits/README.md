@@ -39,3 +39,12 @@ https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source
 #HamlynSymposium #OpenSource #BiomedicalTech #SurgicalInnovation #AI #Collaboration #CallForPosters #LondonEvents 
 
 
+## Social media message template with hashtags
+
+🌟 Don’t miss “Healing Through Collaboration: Open-Source Software in Surgical, Biomedical & AI Technologies”
+📅 27 June | 📍 London | 🏛️ Hamlyn Symposium
+
+This one-of-a-kind event brings together experts from industry, academia, and regulatory bodies to explore how open-source tools are shaping the future of healthcare. Expect inspiring talks, thought-provoking panel discussions, and plenty of opportunities to connect and collaborate.
+Whether you're a developer, researcher, clinician, or just curious — come join the conversation. Let’s move healthcare forward, together.
+
+#OpenSource #HealthTech #AI #Surgery #Collaboration #HamlynSymposium #HSM25 #Telesurgery #MedicalRobotics
